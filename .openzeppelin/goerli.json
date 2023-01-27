@@ -1,0 +1,287 @@
+{
+  "manifestVersion": "3.2",
+  "admin": {
+    "address": "0x6370883E6ca87087C111A1131BbBE218B43A3eEB",
+    "txHash": "0x8e63943e11bd95007451718a1a8caec7adc83cdd741af1757a4a373934500700"
+  },
+  "proxies": [
+    {
+      "address": "0x2EB9fd322Fa127cDeD612896607BA4870f66e7ee",
+      "txHash": "0x545cb8abe15fa277e3a2c1bf2d43cd6a2c66de820e31c146ec11079c6069bd90",
+      "kind": "transparent"
+    }
+  ],
+  "impls": {
+    "d2824a9ba6b25c9a3a99fdff4ca82c029b79713a29c16058ac275e51f1fe1a24": {
+      "address": "0x0153548017cC25316795d79d6C529e75269A1CF7",
+      "txHash": "0x5ecbb0011e3d31bcca84668a561dff5702dbd604a8bebdb45917627dcfaae801",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [],
+        "types": {}
+      }
+    },
+    "0450063aa24762c10651f93e2f9dd8c04a58f3a3120ece1416105411ccb7f833": {
+      "address": "0x7BB1547c01F6B99766089261E5b1C2CfB6EEFD85",
+      "txHash": "0xb0c334c0f5fc76dd5be09d51bc678751a855785c8b880f05d912b139d6ef7cdd",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [],
+        "types": {}
+      }
+    },
+    "677e8baceae0e9a00987ee45047cde5f4dccb9791710eb335f6107143ff38f6d": {
+      "address": "0xc70Ab83281552bB654E1206d1b36459a7e5279C3",
+      "txHash": "0x0be1274f7bde1d9e0c5de541ea5e92163f6980de092b12f14252a59e3719fd7b",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "number",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FaucetV2",
+            "src": "contracts/FaucetV2.sol:14"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "2ed5ae2c783a9b251a254108fc139615158f75051ec313045f72193e5c178077": {
+      "address": "0x7E8E57457215041dF923435E7c61A8863Ddf134c",
+      "txHash": "0x619602db3f031fa26394b734bb25a2e520e9df330fb6ea7d5c52cbb110c88669",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "number",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FaucetV2",
+            "src": "contracts/FaucetV2.sol:14"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "82752b5b5d7206bed8be7e6afe43ed81769d58e136636db84e3a200699b3b911": {
+      "address": "0x7EFb0524448dcfBDd7BBb95Bcd5Ed5Ba9Ba15500",
+      "txHash": "0x316604f4c8aec1a6848862b05b4f0f6a871ba74073f1e407ea1fa3b4dfbdec91",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "number",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FaucetV2",
+            "src": "contracts/FaucetV2.sol:14"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "7032f4aaa0707473775c453249c49d1a2fab4885f64f32f2e0962821a248260c": {
+      "address": "0x74ECc03AbA672015849bA6F583614524C5d8bC36",
+      "txHash": "0x70130daf4dcde4d03d7e525608384cc0efa3aacd772c81cb490d3d0bd3eb3575",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "number",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FaucetV2",
+            "src": "contracts/FaucetV2.sol:14"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "9f405fab418084aefac757380cdedd8af99c29dfe593fedf4a0ec7b2e35a77f1": {
+      "address": "0xD78d4F718ac86192BA2a14ef0D87A927651aE7EA",
+      "txHash": "0x9959d454939ae870d7f7947526c68777b0a8eb276202536ba32f10f3f6a0f8b6",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "number",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FaucetV2",
+            "src": "contracts/FaucetV2.sol:14"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "e3f8678018d00b7a6a8a102da0bf76ed16247c9b822825ed15d09181781a229a": {
+      "address": "0x7C0B826b5a542253139c44990B89F92b2557E037",
+      "txHash": "0x0f6b5143340d42ae757e26f53a90b9935731f0c01989d1f1ba4415e86558cb05",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "number",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FaucetV2",
+            "src": "contracts/FaucetV2.sol:16"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "31728bddc170cd9dbea4ed9495ee0a1dd06536e8e250c369e286b6dbf0774fc8": {
+      "address": "0x1d7AdB6Afa1Cc5e88315383aA1eF15b5972379D6",
+      "txHash": "0x80c1a99c0a4ae2d4b9a05910a6bad4c335454791ff95d4f9d515a687a83f601d",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "number",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FaucetV2",
+            "src": "contracts/FaucetV2.sol:16"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "0cff209e7d9d7e8ea33d5fb0bd9921ebab23c82a03bbad4ddaeaa3187a840448": {
+      "address": "0x7Cb08d7776Fb81330521135165B3e17E243F367D",
+      "txHash": "0xe7aba9dea7e945804bcdc193f9bbf56f7b96d80b7ff82d63ecba098c293ff9f7",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "number",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FaucetV2",
+            "src": "contracts/FaucetV2.sol:41"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "3b4923e7a2addda4b444e7c1060f7ac3623e6fc7e2cc95ad7d301471899c0e8a": {
+      "address": "0xe4C58c87a0Fec8E7280e97588E3B090FAE6c7E4d",
+      "txHash": "0xea9d8c4da96805ee9558eb04cb0a87ea31437fe10d328da4cac96609c5444d65",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "number",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FaucetV2",
+            "src": "contracts/FaucetV2.sol:41"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "68b313cae0717b256c6c34c7358aa9ca5033c65af6430513dfe21b9172190bad": {
+      "address": "0xA6c7497AF3eda77cD432F8aD0029fa899D30948c",
+      "txHash": "0x72a0695eb0e0d987d8a2f019e89344e5e667f009a156c9f884860788e2486c77",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "number",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FaucetV2",
+            "src": "contracts/FaucetV2.sol:41"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    },
+    "d800706e08c85f8c423846243aeea581c8d461a9dfb033161dbe44d82b4693b9": {
+      "address": "0xeD224eeF838475bF5aa1e6AFABEb89B6491269E1",
+      "txHash": "0xf3eef65a2a0f9cd55234f339169c126801ede0fc4c5d129e6197f80453ae36a2",
+      "layout": {
+        "solcVersion": "0.8.17",
+        "storage": [
+          {
+            "label": "number",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint256",
+            "contract": "FaucetV2",
+            "src": "contracts/FaucetV2.sol:15"
+          }
+        ],
+        "types": {
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          }
+        }
+      }
+    }
+  }
+}
